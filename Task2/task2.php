@@ -1,5 +1,5 @@
 <?php
-?>
+
 
 
 <!DOCTYPE html>
@@ -115,28 +115,8 @@ yyyy<input type="number" style="width:50px;">
 
 <input type="submit" name="create" value="Submit">	
 			
-			
-			
-			
-			
-			
-			
-	
-			
-			
-			
-
-
-
-
-
-
-
-
-
-
-
 </form>
 </div>
 </body>
 </html>
+?>
